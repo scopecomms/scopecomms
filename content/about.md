@@ -1,5 +1,5 @@
 ---
-title: "About SCOPE"
+title: ""
 ---
 
 # About SCOPE
@@ -28,4 +28,4 @@ Angelique pioneered the concept of communicating science through beer labels dur
 
 We believe that building trust in science requires:
 
-1. **Meeting people where they are** - Creating science c
+1. **Meeting people where they are** - Creating science 

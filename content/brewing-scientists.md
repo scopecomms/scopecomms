@@ -32,6 +32,6 @@ Our non-alcoholic artisanal seltzer option, continuing the theme of DNA folding 
 
 Download our resources for creating your own science communication events:
 
-* [Beer Label Template](#)
-* [Event Planning Guide](#)
+* [Beer Label Template](/resources/scope-beer-label-template.pdf)
+* [Event Planning Guide](/resources/brewing-scientists-toolkit/)
 * [Community Engagement Checklist](#)

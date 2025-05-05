@@ -2,9 +2,8 @@
 title: ""
 ---
 
-![SCOPE Logo](/images/scope-logo.png)
 
-# Science Communication and Outreach for Public Engagement
+![SCOPE Logo](/images/scope-logo.png) 
 
 We aim to equip scientists from all career stages, backgrounds, and disciplines with tools to build, maintain, and strengthen their communities' trust in science.
 
